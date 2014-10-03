@@ -4,5 +4,7 @@
 - rake
 - watchr
 
-- CI / CodeQuality
+- CI /
+https://semaphoreapp.com
 
+- CodeQuality
